@@ -1,0 +1,20 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Оглавление}{3}{section*.1}%
+\contentsline {section}{Введение}{4}{section*.2}%
+\contentsline {section}{\numberline {1}Структура документа}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Титульная страница}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Аннотация}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Оглавление}{5}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Введение, раздел без нумерации}{5}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Раздел}{6}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Подраздел}{6}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Пункт}{6}{subsection.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}Пример пункта}{6}{subsubsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.8}Приложение}{6}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}Список}{7}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}Перечисление}{7}{subsection.1.10}%
+\contentsline {subsection}{\numberline {1.11}Иллюстрация}{8}{subsection.1.11}%
+\contentsline {subsection}{\numberline {1.12}Таблица}{9}{subsection.1.12}%
+\contentsline {subsection}{\numberline {1.13}Уравнение и формула}{9}{subsection.1.13}%
+\contentsline {section}{Приложение~А}{11}{appendix.A}%
+\contentsline {section}{Приложение~Б}{12}{appendix.B}%

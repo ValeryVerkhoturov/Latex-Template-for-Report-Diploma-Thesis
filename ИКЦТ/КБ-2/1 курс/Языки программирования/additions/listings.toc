@@ -1,0 +1,4 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Оглавление}{2}{section*.1}%
+\contentsline {section}{\numberline {1}Документация listings}{3}{section.1}%
+\contentsline {section}{\numberline {2}Пример листинга для С++ ISO}{4}{section.2}%
